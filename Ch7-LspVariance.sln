@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtypeCovariance", "SubtypeCovariance\SubtypeCovariance.csproj", "{45B29258-4D71-49CA-B844-5EF7266D5D22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SubtypeCovarianceTests", "SubtypeCovarianceTests\SubtypeCovarianceTests.csproj", "{0A226CF7-B2F7-4CEE-ABAE-FB3BCAADEDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console", "Console\Console.csproj", "{B42D6E23-7F8C-4C86-90EE-BBA6B62B7726}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45B29258-4D71-49CA-B844-5EF7266D5D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45B29258-4D71-49CA-B844-5EF7266D5D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45B29258-4D71-49CA-B844-5EF7266D5D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45B29258-4D71-49CA-B844-5EF7266D5D22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A226CF7-B2F7-4CEE-ABAE-FB3BCAADEDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A226CF7-B2F7-4CEE-ABAE-FB3BCAADEDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A226CF7-B2F7-4CEE-ABAE-FB3BCAADEDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A226CF7-B2F7-4CEE-ABAE-FB3BCAADEDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B42D6E23-7F8C-4C86-90EE-BBA6B62B7726}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B42D6E23-7F8C-4C86-90EE-BBA6B62B7726}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B42D6E23-7F8C-4C86-90EE-BBA6B62B7726}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B42D6E23-7F8C-4C86-90EE-BBA6B62B7726}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
